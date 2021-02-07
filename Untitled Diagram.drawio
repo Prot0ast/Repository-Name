@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T02:21:14.259Z" agent="5.0 (Windows)" etag="HkJ51FuAi_4W_5lglkdr" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-07T02:22:26.642Z" agent="5.0 (Windows)" etag="WpN9RKDjSCjBQJ6AAU1H" version="14.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
         <mxCell id="xebQPA5SNUuZlElYcB30-39" value="&lt;div align=&quot;left&quot;&gt;GButton exitGame&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xebQPA5SNUuZlElYcB30-35">
           <mxGeometry y="52" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xebQPA5SNUuZlElYcB30-54" value="MainApplication program" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xebQPA5SNUuZlElYcB30-35">
+        <mxCell id="xebQPA5SNUuZlElYcB30-54" value="GraphicsApplication program" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xebQPA5SNUuZlElYcB30-35">
           <mxGeometry y="72" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xebQPA5SNUuZlElYcB30-37" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="xebQPA5SNUuZlElYcB30-35">
@@ -105,7 +105,7 @@
         <mxCell id="xebQPA5SNUuZlElYcB30-41" value="GButton returnToMain" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="xebQPA5SNUuZlElYcB30-40">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xebQPA5SNUuZlElYcB30-45" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xebQPA5SNUuZlElYcB30-40">
+        <mxCell id="xebQPA5SNUuZlElYcB30-45" value="GraphicsApplication program" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xebQPA5SNUuZlElYcB30-40">
           <mxGeometry y="52" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xebQPA5SNUuZlElYcB30-44" value="Cards deck" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xebQPA5SNUuZlElYcB30-40">
